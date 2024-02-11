@@ -43,6 +43,10 @@
 ![PhpMyAdmin](https://img.shields.io/badge/-PhpMyAdmin-333333?style=flat&logo=PhpMyAdmin&logoColor=007ACC)
 ![Monaca](https://img.shields.io/badge/-Monaca-333333?style=flat&logo=Monaca&logoColor=007ACC)
 
+<a href="https://github.com/iuricode" title="Perfil do Rian">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rian-url&theme=dracula&show_icons=true" />
+</a>
+
 ## Onde me encontrar
 <a href="https://www.linkedin.com/in/developer-rian-vieira/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
