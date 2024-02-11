@@ -47,6 +47,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rian-url&theme=dracula&show_icons=true" />
 </a>
 
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-url&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+
+  </tr>
+</table>
+
 ## Onde me encontrar
 <a href="https://www.linkedin.com/in/developer-rian-vieira/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
