@@ -1,4 +1,4 @@
-### HELLO WORLD👋
+### HELLO WORLD, ME CHAMO RIAN👋
 
 
 
@@ -49,6 +49,8 @@
 ![Monaca](https://img.shields.io/badge/-Monaca-333333?style=flat&logo=Monaca&logoColor=007ACC)
 
 ## Onde me encontrar
-
+<a href="https://www.linkedin.com/in/developer-rian-vieira/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
