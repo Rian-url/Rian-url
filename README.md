@@ -6,7 +6,6 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Técnico em Desenvolvimento de Sistemas. 
-<!-- - - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.-->
 - 🌱 Aprendendo mais sobre Java, SQL e CyberSegurança.
 
 ## Minhas Skills
