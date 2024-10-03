@@ -5,6 +5,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- Cursando Engenharia da Computação.
 - 🎓 Técnico em Desenvolvimento de Sistemas. 
 - 🌱 Aprendendo mais sobre Java, SQL e CyberSegurança.
 
