@@ -4,7 +4,7 @@
 ## Sobre minha carreira como DEV
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- :computer: Cursando Engenharia da Computação.
+- :computer: Cursando Engenharia da Computação, 2° Período.
 - 🎓 Técnico em Desenvolvimento de Sistemas. 
 - 🌱 Aprendendo mais sobre Java, SQL e Flutter.
 - :office: Desenvolvedor na emprea S.Magalhães & Essemaga
@@ -24,7 +24,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
     </br>
     <td>
       <img
