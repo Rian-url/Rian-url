@@ -1,16 +1,15 @@
 ### HELLO WORLD, ME CHAMO RIAN👋
 
 
-
-## Sobre mim
+## Sobre minha carreira como DEV
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- Cursando Engenharia da Computação.
+- :computer: Cursando Engenharia da Computação.
 - 🎓 Técnico em Desenvolvimento de Sistemas. 
-- 🌱 Aprendendo mais sobre Java, SQL e CyberSegurança.
+- 🌱 Aprendendo mais sobre Java, SQL e Flutter.
+- :office: Desenvolvedor na emprea S.Magalhães & Essemaga
 
 ## Minhas Skills
-
 
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
